@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksGame", "GeeksGame\GeeksGame.csproj", "{CF57FE5F-CCCD-4BA2-842F-16E0E8C1B0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF57FE5F-CCCD-4BA2-842F-16E0E8C1B0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF57FE5F-CCCD-4BA2-842F-16E0E8C1B0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF57FE5F-CCCD-4BA2-842F-16E0E8C1B0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF57FE5F-CCCD-4BA2-842F-16E0E8C1B0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F94BA8-D83E-42B1-9D73-D1EAA81DB195}
+	EndGlobalSection
+EndGlobal
